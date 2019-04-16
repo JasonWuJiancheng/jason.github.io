@@ -2,7 +2,7 @@
 layout: post
 title: 'GitHub Page建站的事'
 subtitle: 'GitHub Page建站的事'
-date: 2019-04-016
+date: 2019-04-10
 categories: 技术
 cover: '../screenshot/001/cover.jpg'
 tags: markdown github
