@@ -7,14 +7,14 @@ categories: 技术
 cover: '../screenshot/001/cover.jpg'
 tags: markdown github
 ---
-
+<!-- TOC -->autoauto- [GitHub Page建站](#github-page建站)auto    - [1、主要步骤](#1主要步骤)auto    - [2、目录结构](#2目录结构)auto    - [3、修改博客信息](#3修改博客信息)auto    - [4、发布博文](#4发布博文)auto    - [5、关于markdown](#5关于markdown)auto    - [6、总结](#6总结)autoauto<!-- /TOC -->
 > 在这知识剧烈膨胀的时代，如何记录、整理、分享自己的所学所感无疑显得十分重要，而博客便是最好的方式之一。其实早就有建立一个个人博客的想法，但由于各种原因一直在推迟，建立了自己的博客，但是迟迟也没有更新什么，索性就说说利用*github page*建站的事情吧。
 
 # GitHub Page建站
 
 > *github.io*默认采用[Jekyll](https://www.jekyll.com.cn/)作为建站工具，而后者是一款当前火热的开源静态网站建站工具，拥有庞大的使用群体和社区。意味着其拥有丰富的插件，丰富的主题，最重要的是已经有无数人帮你造出了无数的轮子可供参考。没有前端功底？没关系，可以直接从其他大佬的[github](http://github.com/)里直接*Fork*一套框架就行了。
 
-## 主要步骤
+## 1、主要步骤
 
 - 创建一个github的账号
 
@@ -37,7 +37,7 @@ tags: markdown github
 
 > 至此你的*github page*已经简单搭建起来了，如果想详细了解如何将本地文件与网站相连，需要了解*git*相关知识。接下来我将简单介绍一下fork下来的别人的主题，如何进行简单配置。
 
-## 目录结构
+## 2、目录结构
 可以看到从网上fork下来的网站的目录是这样的，做参考使用。
 ![目录](../screenshot/001/menu.jpg)
 
@@ -46,13 +46,13 @@ tags: markdown github
 1. 修改博客信息
 2. 发布博文
 
-## 修改博客信息
+## 3、修改博客信息
 
 更改目录树下的`_config.yml`文件即可
 
 ![博客信息](../screenshot/001/_config.jpg)
 
-## 发布博文
+## 4、发布博文
 
 将博文内容保存为一定格式的`.md`文件并放入目录树`_posts`文件夹下即可
 
@@ -60,7 +60,7 @@ tags: markdown github
 
 > 注:修改文件后记得进行*git commit*提交，并*git push*更新至服务器
 
-## 关于markdown
+## 5、关于markdown
 
 [什么是markdown?](https://baike.baidu.com/item/markdown/3245829?fr=aladdin)
 
@@ -68,7 +68,7 @@ tags: markdown github
 
 文档当作字典来查就好了：[markdown中文文档](http://www.markdown.cn/)
 
-## 总结
+## 6、总结
 
 总的来说，利用`GitHub Page`建站还是对使用者有一定的要求：
 
