@@ -7,7 +7,7 @@ categories: 技术
 cover: '../screenshot/001/cover.jpg'
 tags: markdown github
 ---
-<!-- TOC -->autoauto- [GitHub Page建站](#github-page建站)auto    - [1、主要步骤](#1主要步骤)auto    - [2、目录结构](#2目录结构)auto    - [3、修改博客信息](#3修改博客信息)auto    - [4、发布博文](#4发布博文)auto    - [5、关于markdown](#5关于markdown)auto    - [6、总结](#6总结)autoauto<!-- /TOC -->
+[TOC]
 > 在这知识剧烈膨胀的时代，如何记录、整理、分享自己的所学所感无疑显得十分重要，而博客便是最好的方式之一。其实早就有建立一个个人博客的想法，但由于各种原因一直在推迟，建立了自己的博客，但是迟迟也没有更新什么，索性就说说利用*github page*建站的事情吧。
 
 # GitHub Page建站
