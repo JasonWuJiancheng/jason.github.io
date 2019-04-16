@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'GitHub Page建站的事'
-subtitle: 'GitHub Page建站的事'
+subtitle: '一个简单的GitHub Page建站教程'
 date: 2019-04-10
 categories: 技术
 cover: '../screenshot/001/cover.jpg'
