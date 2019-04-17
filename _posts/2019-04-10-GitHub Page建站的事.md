@@ -51,7 +51,7 @@ tags: markdown github
 ## 2、目录结构
 可以看到从网上fork下来的网站的目录是这样的，做参考使用。
 <!-- ![目录](https://jasonwujiancheng.github.io/screenshot/001/6.png) -->
-<img src='https://jasonwujiancheng.github.io/screenshot/001/6.png' style="zoom:30%" title="目录">
+<img src='https://jasonwujiancheng.github.io/screenshot/001/6.png' style="zoom:30%" title="目录" alt="目录">
 
 **下面列举重要的两件事**
 
