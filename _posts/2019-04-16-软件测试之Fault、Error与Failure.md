@@ -8,7 +8,15 @@ cover: ''
 tags: 测试 java
 ---
 
-[TOC]
+<!-- TOC -->
+
+- [1、程序设计](#1程序设计)
+- [2、结果代码分析](#2结果代码分析)
+    - [1）不触发Fault](#1不触发fault)
+    - [2）触发Fault，但是不能触发Error](#2触发fault但是不能触发error)
+    - [3）触发Error，但是不能产生Failure](#3触发error但是不能产生failure)
+
+<!-- /TOC -->
 
 - **要求：构造程序和测试用例，分别是：**
   1. 不能触发Fault
