@@ -50,7 +50,7 @@ tags: markdown github
 
 ## 2、目录结构
 可以看到从网上fork下来的网站的目录是这样的，做参考使用。
-![目录](https://jasonwujiancheng.github.io/screenshot/001/menu.jpg)
+![目录](https://jasonwujiancheng.github.io/screenshot/001/6.png)
 
 **下面列举重要的两件事**
 
@@ -61,13 +61,13 @@ tags: markdown github
 
 更改目录树下的`_config.yml`文件即可
 
-![博客信息](https://jasonwujiancheng.github.io/screenshot/001/_config.jpg)
+![博客信息](https://jasonwujiancheng.github.io/screenshot/001/7.png)
 
 ## 4、发布博文
 
 将博文内容保存为一定格式的`.md`文件并放入目录树`_posts`文件夹下即可
 
-![发布博文](https://jasonwujiancheng.github.io/screenshot/001/_posts.jpg)
+![发布博文](https://jasonwujiancheng.github.io/screenshot/001/8.png)
 
 > 注:修改文件后记得进行*git commit*提交，并*git push*更新至服务器
 
