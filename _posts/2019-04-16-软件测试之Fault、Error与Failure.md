@@ -1,7 +1,7 @@
 ---
 layout: post
-title: '软件测试（一）'
-subtitle: '软件测试之Fault、Error与Failure'
+title: '软件测试之触发错误'
+subtitle: '错误：Fault、Error与Failure'
 date: 2019-04-16
 categories: 技术
 cover: ''
